@@ -43,6 +43,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  color: orange;
 }
 
 .title,
@@ -112,6 +113,17 @@
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+
+  .title {
+    margin: 0;
+    /* line-height: 1.15; */
+    font-size: 1.7rem;
+    color: orange;
+  }
+
+  .container {
+    padding: 0 0.5rem;
   }
 }
 
