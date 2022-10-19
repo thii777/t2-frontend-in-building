@@ -18,7 +18,7 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <a>
-          Powered by{"T2 creditos"}
+          Powered by{" T2 creditos"}
           {/* <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span> */}
