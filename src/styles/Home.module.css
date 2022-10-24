@@ -1,6 +1,6 @@
-.container {
+/* .container {
   padding: 0 0.5rem;
-}
+} */
 
 .main {
   min-height: 100vh;
@@ -19,6 +19,8 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  position: absolute;
+  bottom: 0;
 }
 
 .footer a {
