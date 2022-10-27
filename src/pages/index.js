@@ -16,7 +16,6 @@ export default function Home() {
       <main>
         <Main />
       </main>
-      <footer className={styles.footer}> Powered by {"T2 créditos"} </footer>{" "}
     </div>
   );
 }

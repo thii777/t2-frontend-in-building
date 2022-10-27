@@ -1,8 +1,8 @@
-import BasicButton from "../../atoms/buttons/BasicButtons";
+import BasicButton from "../atoms/buttons/BasicButtons";
 
 export default function Card(props) {
   return (
-    <div basic-card-container>
+    <div className="basic-card-container">
       <h4>{props.subTitle}</h4>
       <p>{props.text}</p>
       <BasicButton
